@@ -139,9 +139,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ## 📫 Contact
 
-- **Author:** Your Name  
-- **GitHub:** [@YourUsername](https://github.com/YourUsername)  
-- **Email:** your.email@example.com  
+- **Author:** Deep Mehta  
+- **GitHub:** [@YourUsername](https://github.com/deepmehta27)  
 
 ---
 
